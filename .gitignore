@@ -1,0 +1,29 @@
+# Ignore build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.vs/
+.vscode/
+
+# Logs
+*.log
+
+# Environment-specific files
+.env
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+*.bak
+*.swp
+
+# Visual Studio generated files
+*.suo
+*.cache
+*.ilk
+*.pdb
+*.userosscache
+*.ide
